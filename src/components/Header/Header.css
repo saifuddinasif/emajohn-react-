@@ -17,3 +17,9 @@
 .header a:hover{
     color: orange;
 }
+
+.LOGOUT{
+    margin-left: 10px;
+    color: red;
+    
+}

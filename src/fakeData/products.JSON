@@ -26,19 +26,6 @@
     "quantity": 0
   },
   {
-    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
-    "category": "Men's Sneaker",
-    "name": "SUPERNOVA SHOES",
-    "seller": "Addidas",
-    "price": 245,
-    "stock": 20,
-    "ratings": 4,
-    "ratingsCount": 3972,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
-    "shipping": 1,
-    "quantity": 0
-  },
-  {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
     "category": "Men's Sneaker",
     "name": "LITE RACER ADAPT 3.0 SHOES",
